@@ -1,0 +1,10 @@
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\bin\Debug\Whiteboard1.exe.config
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\bin\Debug\Whiteboard1.exe
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\bin\Debug\Whiteboard1.pdb
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\obj\Debug\Whiteboard1.csproj.AssemblyReference.cache
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\obj\Debug\Whiteboard1.FrmMain.resources
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\obj\Debug\Whiteboard1.Properties.Resources.resources
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\obj\Debug\Whiteboard1.csproj.GenerateResource.cache
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\obj\Debug\Whiteboard1.csproj.CoreCompileInputs.cache
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\obj\Debug\Whiteboard1.exe
+D:\02_Hodehod\14 - C# Level 1\Whiteboard\Whiteboard1\obj\Debug\Whiteboard1.pdb
